@@ -5,7 +5,7 @@ header:
 
   - titles:
       en      : &EN       Software Training
-    url:        https://hepsoftwarefoundation.org/training/center.html
+    url:        /software.html
 
   - titles:
       en      : &EN       About
