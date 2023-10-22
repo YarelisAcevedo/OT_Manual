@@ -1,0 +1,29 @@
+/* start custom scss snippet */
+
+/* Float four columns side by side */
+.column {
+    float: left;
+    width: 30%;
+    padding: 0 10px;
+    margin-bottom: 20px
+  }
+  
+  /* Remove extra left and right margins, due to padding in columns */
+  .row {margin: 0 5px;}
+  
+  /* Clear floats after the columns */
+  .row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+  
+/* Responsive columns - one column layout (vertical) on small screens */
+@media screen and (max-width: 600px) {
+    .column {
+      width: 100%;
+      display: block;
+      margin-bottom: 20px;
+    }
+  }
+/* end custom scss snippet */

@@ -1,0 +1,12 @@
+header:
+  - titles:
+      en      : &EN       Home
+    url:        /index.html
+
+  - titles:
+      en      : &EN       Software Training
+    url:        https://hepsoftwarefoundation.org/training/center.html
+
+  - titles:
+      en      : &EN       About
+    url:        /about.html
