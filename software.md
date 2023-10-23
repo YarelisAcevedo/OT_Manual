@@ -20,9 +20,6 @@ article_header:
     <div class="column">
         <a href="https://swcarpentry.github.io/python-novice-inflammation/">
             <div class="card">
-                <div class="card__image">
-                    <img class="image" src="/assets/images/python.png"/>
-                </div>
                 <div class="card__content">
                     <div class="card__header">
                         <p>Python</p>
@@ -34,9 +31,6 @@ article_header:
     <div class="column">
         <a href="https://swcarpentry.github.io/shell-novice/">
             <div class="card">
-                <div class="card__image">
-                    <img class="image" src="/assets/images/unix_shell.jpg"/>
-                </div>
                 <div class="card__content">
                     <div class="card__header">
                         <p>Unix Shell</p>
@@ -48,9 +42,6 @@ article_header:
     <div class="column">
         <a href="https://hsf-training.github.io/hsf-training-ssh-webpage/">
             <div class="card">
-                <div class="card__image">
-                    <img class="image" src="/assets/images/ssh.png"/>
-                </div>
                 <div class="card__content">
                     <div class="card__header">
                         <p>SSH</p>
@@ -64,9 +55,6 @@ article_header:
     <div class="column">
         <a href="https://github.com/root-project/software-carpentry">
             <div class="card">
-                <div class="card__image">
-                    <img class="image" src="/assets/images/root.png"/>
-                </div>
                 <div class="card__content">
                     <div class="card__header">
                         <p>ROOT</p>
